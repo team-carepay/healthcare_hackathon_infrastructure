@@ -1,0 +1,5 @@
+# virtualenv for pre-commit
+env
+
+# Terraform
+.terraform
